@@ -16,7 +16,7 @@ Specification
 
 Aircrafts are well utilized machinery. In order to keep them safely operating for more than 20 yrs, they need constant maintenance. Maintenance events (or checks) as all other duties of an aircraft must be planned, executed and audited. 
 
-Your task is to create a software which does the auditing of the checks. As checks are reoccouring, they all define a certain pattern. This might include the number take-off/landing cycles, flight hours or calendar days since the last check. 
+Your task is to create a software which does the auditing of the checks. As checks are reoccuring, they all define a certain pattern. This might include the number take-off/landing cycles, flight hours or calendar days since the last check. 
 
 The input of the application includes a schedule with aircrafts and their flight legs, and the planned/executed checks. Each leg has a status from the following list:
 
